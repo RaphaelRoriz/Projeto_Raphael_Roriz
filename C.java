@@ -25,5 +25,9 @@ private class C{
   public void MC2(){
     System.out.print("MC2");
   }
+  
+  public void MC3(){
+    System.out.print("MC3");
+  }
 
 }
